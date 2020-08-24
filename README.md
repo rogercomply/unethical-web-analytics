@@ -7,6 +7,8 @@ This blocklist deters trackers used by the following services:
 * Plausible Analytics
 * Simple Analytics.
 
-This filter list is provided to be used with web browsers that don't provide ad-blockers with access to DNS queries.
+This filter list is provided to be used with web browsers that don't provide ad-blockers with access to DNS queries. As far as I'm aware, that's everything besides Firefox.
 
-As far as I'm aware, that's everything besides Firefox.
+## Install Adblock Filter List
+
+[Direct link](https://raw.githubusercontent.com/rogercomply/unethical-web-analytics/master/unethical-web-analytics.txt)
