@@ -27,6 +27,7 @@
 ||a.airtags.io^
 ||aardvark.helpingpets.org.uk^
 ||aardwolf.benbrignell.com^
+||acq.wolfishgroup.com^
 ||a.ctd.ai^
 ||a.devlog.games^
 ||a.duorotation.at^
@@ -67,8 +68,12 @@
 ||ana.iriie.io^
 ||anal.yaywork.com^
 ||analyse.probo.dk^
+||analytics.andrewsmith.com.au^
 ||analytics.astrianzheng.cn^
 ||analytics.audiodub.app^
+||analytics.budawebstudio.com^
+||analytics.cleanthesite.com^
+||analytics.coolkingsac.com^
 ||analytics.cxtales.com^
 ||analytics.daniliants.com^
 ||analytics.datadividendproject.com^
@@ -76,6 +81,7 @@
 ||analytics.gln.me^
 ||analytics.hiome.com^
 ||analytics.hobo.fi^
+||analytics.holory.fr^
 ||analytics.hydra.bot^
 ||analytics.ianspivey.com^
 ||analytics.innovote.io^
@@ -100,6 +106,7 @@
 ||analytics.thoughtbyt.es^
 ||analytics.vanilla-project.guide^
 ||analytics.wbstrnts.com^
+||analytics.wetfish.com.au^
 ||analytics.whistly.co^
 ||analytics.winter.ink^
 ||analytics.yukorabbit.art^
@@ -159,13 +166,13 @@
 ||api.barberinlasvegas.com^
 ||api.barbershop-lasvegas.com^
 ||api.bdn.sh^
-||api.belief.io^
 ||api.bestbarbervegas.com^
 ||api.binnedart.com^
 ||api.bishopmethod.com^
 ||api.blobmaker.app^
 ||api.blog.svenadolph.net^
 ||api.blucheq.com^
+||api.bonjourmalo.fr^
 ||api.boundarylabs.com^
 ||api.boycott.io^
 ||api.brevity.io^
@@ -218,7 +225,7 @@
 ||api.gtd.io^
 ||api.hackrdot.com^
 ||api.hangtime.fm^
-||api.hills.io^
+||api.heygamer.co^
 ||api.hivestats.io^
 ||api.iad.io^
 ||api.iconsbag.com^
@@ -226,7 +233,6 @@
 ||api.imagery.io^
 ||api.inclusive.io^
 ||api.indiecritic.net^
-||api.infotech.io^
 ||api.intellectual.io^
 ||api.jden.me^
 ||api.kotsf.com^
@@ -242,9 +248,7 @@
 ||api.managers.io^
 ||api.marciniuk.me^
 ||api.mariahlattas.com^
-||api.mercy.io^
 ||api.metals.io^
-||api.miliano.tech^
 ||api.mind.rip^
 ||api.monpetitstudio.net^
 ||api.morphine.io^
@@ -359,15 +363,16 @@
 ||bandicoot.solberg.is^
 ||barnacle.ailaw.pk^
 ||barnacle.viewsource.io^
+||base.cybersomething.com^
 ||basilisk.laosima.com^
 ||basilisk.mindful.dev^
 ||bass.ahoyvpn.com^
 ||bass.goulet.dev^
 ||bass.siterig.io^
+||bass.thenoncustodialmom.com^
 ||bear.bteam.co^
 ||bear.builtbyborda.com^
 ||bear.bukury.com^
-||bear.clientrock.com^
 ||bear.duncanm.dev^
 ||bear.kristinremm.com^
 ||beaver.brush.ninja^
@@ -409,6 +414,8 @@
 ||burp.4740nicollet.com^
 ||burp.dtesta.com^
 ||butterfly.coverworld.com.au^
+||butterfly.rfortherestofus.com^
+||butterfly.tralicom.mx^
 ||buzzard.antigosalunos.pt^
 ||buzzard.letsplaydigimon.com^
 ||buzzard.nimble.team^
@@ -424,7 +431,7 @@
 ||cardinal.businessfirstonline.co.uk^
 ||cardinal.iwgb.org.uk^
 ||caribou.clintgwinter.com^
-||caribou.color.io^
+||caribou.convodojo.com^
 ||caribou.nachbarschafts-hilfe.de^
 ||carp.amespacios.com^
 ||carp.pbncontent.com^
@@ -441,6 +448,7 @@
 ||cat.inmc.fm^
 ||cat.laravel-news.com^
 ||cat.learnssg.com^
+||cat.mattr.global^
 ||cat.philipmorganconsulting.com^
 ||cat.remotefit.io^
 ||catshark.baiboo.fr^
@@ -468,6 +476,7 @@
 ||cephalopod.localfresh.store^
 ||cephalopod.nucleus.us^
 ||cephalopod.toqueteos.es^
+||chameleon.247chauffeurs.com^
 ||chameleon.loewen.digital^
 ||chameleon.pondry.com^
 ||chameleon.ryanmettler.com^
@@ -512,8 +521,10 @@
 ||cougar.companymoneyworries.co.uk^
 ||cougar.pangora.no^
 ||counter.cropvid.com^
+||counter.journal.tyler.io^
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^
+||counter.tyler.io^
 ||coyote.12gem.me^
 ||coyote.9tsolutions.mx^
 ||coyote.alboweb.nl^
@@ -574,6 +585,7 @@
 ||donkey.ohioready.org^
 ||donkey.pmjoblist.com^
 ||donkey.qnyp.com^
+||donkey.routinehub.co^
 ||donkey.smeriwether.com^
 ||donkey.thedowhatyoulovepodcast.com^
 ||donkey.w8r.ai^
@@ -658,6 +670,7 @@
 ||fowl.saulhardman.com^
 ||fowl.teamyap.app^
 ||frameworkless.sa.fiiv.io^
+||frog.enduco.app^
 ||frog.jamesbliss.com^
 ||fun.growthfyi.com^
 ||funny.formzend.com^
@@ -680,6 +693,7 @@
 ||giraffe.feuerwasser.de^
 ||giraffe.fnd.info^
 ||giraffe.southsidekitchen.com^
+||giraffe.talktalent.com^
 ||giraffe.viatorci.com^
 ||gm8pbl6f9.piacayetano.ph^
 ||goals.rusingh.com^
@@ -752,6 +766,7 @@
 ||hoverfly.cyberbytesinc.com^
 ||hoverfly.dailyblocks.tv^
 ||hoverfly.drijve.de^
+||hoverfly.winchdesign.cn^
 ||howmuchtrafficarewegetting.benjaminashbaugh.me^
 ||hq.missiveapp.com^
 ||hyena.wearegray.co^
@@ -809,6 +824,7 @@
 ||kingfisher.startupdemoday.live^
 ||kisses.forhumansake.org^
 ||kite.cardneyestate.co.uk^
+||kite.garethfullers.site^
 ||kite.kochie.io^
 ||kite.launchcdn.com^
 ||kite.liveparking.eu^
@@ -885,6 +901,7 @@
 ||lynx.inovo.io^
 ||lynx.microl.ink^
 ||lynx.pascivite.com^
+||lytics.findairpods.com^
 ||macaw.lab75.jp^
 ||macaw.liscioapps.com^
 ||mackerel.appstudio.berlin^
@@ -904,6 +921,7 @@
 ||marsupial.dbcontractingltd.ca^
 ||marsupial.kymellis.co^
 ||meadowlark.bump.sh^
+||meadowlark.tempus.im^
 ||mercury.clawfire.net^
 ||metrics.axiomatic-inc.com^
 ||metrics.recunia.de^
@@ -912,6 +930,7 @@
 ||mi.paulsmith.site^
 ||mite.downtotheearth.co.uk^
 ||mite.sublimeads.com^
+||mollusk.forwardmx.io^
 ||mollusk.saferingz.com^
 ||mongolia.skerritt.blog^
 ||mongoose.mlle-o.fr^
@@ -952,16 +971,19 @@
 ||ocelot.pixlwebs.nl^
 ||ocelot.simplifiedfitness.io^
 ||ocelot.sonicumonitoring.com^
+||ocq1tph.hvmane.co^
 ||octopus.hans-hornberger.de^
 ||octopus.hns.rocks^
 ||octopus.petreski.co^
 ||okta.kennethsweezy.com^
 ||oogjeinhetzeil.gersom.nl^
 ||opossum.roleup.com^
+||orangutan.va4indieauthors.com^
 ||orca.weatherontheway.app^
 ||ostrich.getschools.org^
 ||ostrich.laurierepko.com^
 ||ostrich.tailwindmade.com^
+||otter.emdegmbh.com^
 ||otter.kieransmith.me^
 ||otter.quarterdeck.co.uk^
 ||ovq7e.shredder.app^
@@ -993,6 +1015,7 @@
 ||p.decent.social^
 ||peafowl.ozspurs.com^
 ||peafowl.stuartmorris.me^
+||peards.zevvle.com^
 ||pelican.benefitbeers.org^
 ||pelican.bohler.biz^
 ||pelican.pojo.gr^
@@ -1020,6 +1043,7 @@
 ||pig.notion.chat^
 ||pi.mrloop.com^
 ||ping.m-k.io^
+||ping.naturadapt.com^
 ||ping.tipyourserver.org^
 ||pinniped.oslocrisislinetech.com^
 ||pinniped.spacecountdown.com^
@@ -1034,6 +1058,7 @@
 ||planarian.dtesta.com^
 ||planarian.fatsackfails.com^
 ||planarian.reverberate.org^
+||platypus.colly.com^
 ||platypus.facet.net^
 ||platypus.simplesell.de^
 ||platypus.tompec.com^
@@ -1072,6 +1097,7 @@
 ||plausible.opengraph.xyz^
 ||plausible.pgmustard.com^
 ||plausible.plancagency.com^
+||plausible.promlabs.com^
 ||plausible.promlens.com^
 ||plausible.quantumcomputingexplained.com^
 ||plausible.rcpe.io^
@@ -1088,7 +1114,6 @@
 ||pl.mynorthstarapp.com^
 ||pls.agence.click^
 ||pls.fcrpg.net^
-||pls.indiemakers.fr^
 ||pl.weinshops.online^
 ||p.neil.gg^
 ||polarbear.codeday.org^
@@ -1132,8 +1157,10 @@
 ||qqpofnqxqu.pxlc.at^
 ||quelea.tinylittletotems.com^
 ||quokka.bulkbuyhosting.com^
+||quokka.joshuawood.net^
 ||quokka.webgems.io^
 ||rabbit.homamo.co^
+||rabbit.kilowatt.media^
 ||rabbit.maaikedenbesten.nl^
 ||rabbit.radicalxchange.org^
 ||rabbit.slashequip.com^
@@ -1145,7 +1172,6 @@
 ||rapido.idraetsmusik.dk^
 ||rat.gimlet.io^
 ||rat.luke.ph^
-||raven.dnlytras.com^
 ||raven.omamao.ch^
 ||raven.sgoudie.com^
 ||raven.vethelpdirect.com^
@@ -1154,6 +1180,7 @@
 ||real.public-apis.xyz^
 ||reindeer.dunkeldholidayhome.co.uk^
 ||reindeer.trkplt.com^
+||report.copetti.org^
 ||reptile.delopoulos.gr^
 ||reptile.devopsreadme.xyz^
 ||rhinoceros.cocotec.io^
@@ -1161,6 +1188,7 @@
 ||rhinoceros.krieger.io^
 ||rhinoceros.valeriaborgese.it^
 ||roadrunner.getcandy.io^
+||roadrunner.ideas42ventures.com^
 ||rodent.botreach.de^
 ||rodent.covisitor.app^
 ||rodent.kevindendievel.com^
@@ -1192,6 +1220,7 @@
 ||sa.airmessage.org^
 ||sa.amantia.nl^
 ||sa.anarkio.com^
+||sa.anyhunter.dev^
 ||saapi.amicu.app^
 ||sa.apicoding.io^
 ||saapi.freaque.live^
@@ -1201,6 +1230,7 @@
 ||sa.apis-docs.com^
 ||saapi.valentimviolin.com^
 ||sa.arborealstudios.com^
+||sa.arran.nz^
 ||sa.ashiknesin.com^
 ||sa.austinmiller.dev^
 ||sa.auth.vexquisit.com^
@@ -1210,6 +1240,7 @@
 ||sa.beaker.dev^
 ||sa.becausepages.ga^
 ||sa.becausetrigger.ga^
+||sa.bejo.tech^
 ||sa.bellrobert.com^
 ||sa.blakerain.com^
 ||sa.blog.public-apis.xyz^
@@ -1218,6 +1249,7 @@
 ||sa.bradlau.blog^
 ||sa.brrrrr.money^
 ||sa.bubisanat.com^
+||sa.budgetbudget.app^
 ||sa.cabinn.com^
 ||sa.capamap.de^
 ||sa.chl.li^
@@ -1283,6 +1315,7 @@
 ||sa.hie.fyi^
 ||sa.highpass.events^
 ||sa.hodari.be^
+||sa.hohiemer.com^
 ||sa.hoodmaps.com^
 ||sa.howtoberemote.com^
 ||sa.httpcodes.fyi^
@@ -1304,7 +1337,6 @@
 ||sa.jloh.co^
 ||sa.johnpatrickbender.com^
 ||sa.jonas.ee^
-||sa.joshuawood.net^
 ||sa.juiceboxify.me^
 ||sa.katiekodes.com^
 ||sa.keeninsight.io^
@@ -1319,6 +1351,7 @@
 ||sa.leftielayup.com^
 ||sa.leosmorningworkout.com^
 ||sa.levels.io^
+||sa.lexdsa.org^
 ||sa.lkroll.com^
 ||sa.longwelwind.net^
 ||sa.loud.red^
@@ -1368,6 +1401,7 @@
 ||sa.opendemic.org^
 ||sa.orma.in^
 ||sa.oro-gioielli.com^
+||sa.outfire.com^
 ||sa.pagertree.com^
 ||sa.paradem.co^
 ||sa.paradem.com^
@@ -1459,6 +1493,7 @@
 ||sa.turntheflywheel.com^
 ||sa.tux.it^
 ||sa.typoconsult.dk^
+||sa.uniformtactical.com^
 ||sa.upstamps.com^
 ||sa.usecloudpress.com^
 ||sa.veil-project.com^
@@ -1479,6 +1514,7 @@
 ||sa.wholesearchcatalog.com^
 ||sa.wip.chat^
 ||sa.witoszek.dev^
+||sa.wongbejo.online^
 ||sa.worktiempo.com^
 ||sa.xiphe.net^
 ||sa.xpertstack.com^
@@ -1590,7 +1626,9 @@
 ||squirrel.laravel-mix.com^
 ||squirrel.livechatlabs.de^
 ||squirrel.malaynahocker.com^
+||s.realityispostponed.com^
 ||s.repguard.uk^
+||s.saucisson-rebellion.fr^
 ||s.savjee.be^
 ||s.smolcat.me^
 ||s.somos-arts.org^
@@ -1602,6 +1640,7 @@
 ||starman.fathomdns.com^
 ||starman.floorcleanse.co.uk^
 ||starman.usefathom.com^
+||stashstats.vanityprojects.com^
 ||static.kokoro.app^
 ||statistics.heatbeat.de^
 ||statistics.leohoesl.com^
@@ -1668,6 +1707,7 @@
 ||stats.creativeboom.com^
 ||stats.creativinn.com^
 ||stats.crocodeal.xyz^
+||stats.crypdit.com^
 ||stats.ctor.io^
 ||stats.dadsnotebook.com^
 ||stats.danhughes.io^
@@ -1675,7 +1715,6 @@
 ||stats.dashbit.co^
 ||stats.datadb.dev^
 ||stats.datafever.io^
-||stats.davidlms.com^
 ||stats.dawn.md^
 ||stats.depends-on-the-definition.com^
 ||stats.derekknight.tech^
@@ -1685,15 +1724,18 @@
 ||stats.dokidokibangkok.com^
 ||stats.donal.us^
 ||stats.dotplan.io^
+||stats.drivethrubethlehem.com^
 ||stats.drsaavedra.mx^
 ||stats.dylmye.me^
 ||stats.eaglewingranch.ca^
 ||stats.eedistudio.ie^
 ||stats.einsvieracht.de^
 ||stats.elementary.io^
+||stats.elixir-lang.org^
 ||stats.emailaddress.horse^
 ||stats.emailrep.io^
 ||stats.emmas.site^
+||stats.equium.io^
 ||stats.erichier.tech^
 ||stats.ets-schnellkurs.de^
 ||stats.evenchilada.com^
@@ -1713,6 +1755,7 @@
 ||stats.frantic.im^
 ||stats.fsvdr.me^
 ||stats.fundimmo.com^
+||stats.gaialex.org^
 ||stats.gbc.uk^
 ||stats.george.black^
 ||stats.georgieff-osteo.fr^
@@ -1742,12 +1785,16 @@
 ||stats.homestow.com^
 ||stats.htmlcsstoimage.com^
 ||stats.ifiwasgame.com^
+||stats.iljapanic.com^
 ||stats.incoming.co^
 ||stats.increasinglyfunctional.com^
 ||stats.infoboard.de^
 ||stats.innoforge.com.au^
 ||stats.innoq.com^
+||stats.inre.me^
+||stats.interruptor.pt^
 ||stats.itermeum.com^
+||stats.ivankahl.com^
 ||stats.jackwhiting.co.uk^
 ||stats.jamiesutton.co^
 ||stats.janlindblom.se^
@@ -1766,6 +1813,7 @@
 ||stats.kfcsint-lenaartsjeugd.be^
 ||stats.kinokochat.com^
 ||stats.knightapps.tech^
+||stats.krauss.io^
 ||stats.kuote.co^
 ||stats.larsroettig.dev^
 ||stats.latehours.net^
@@ -1811,6 +1859,7 @@
 ||stats.nibbles-bits.com^
 ||stats.nice.kiwi^
 ||stats.nodehub.io^
+||stats.nodewood.com^
 ||stats.nothingbutnylon.com^
 ||stats.noverant.com^
 ||stats.now2021.de^
@@ -1820,12 +1869,16 @@
 ||stats.oursky.com^
 ||stats.outperform.academy^
 ||stats.pakaloa.com^
+||stats.pandasnap.io^
 ||stats.paramountperformance.net^
 ||stats.parcifal.dev^
 ||stats.patriot.win^
 ||stats.pebkac.io^
 ||stats.performwp.com^
+||stats.permapeople.org^
+||stats.personalkollen.se^
 ||stats.petanode.com^
+||stats.phenofic.com^
 ||stats.pibar.co^
 ||stats.piersr.com^
 ||stats.pixify.net^
@@ -1859,6 +1912,7 @@
 ||stats.redpandabooks.com^
 ||stats.referralhero.com^
 ||stats.researchexplained.org^
+||stats.respkt.de^
 ||stats.revitfamily.app^
 ||stats.ribosomehealth.com^
 ||stats.ricardoluevanos.com^
@@ -1868,6 +1922,7 @@
 ||stats.s3xymiles.com^
 ||stats.safebuy.io^
 ||stats.scailable.net^
+||stats.scalesql.com^
 ||stats.seanbailey.dev^
 ||stats.sebastiangale.ca^
 ||stats.secratic.com^
@@ -1875,7 +1930,6 @@
 ||stats.senaraibazaar.com^
 ||stats.sendngnt.com^
 ||stats.sentoo.co^
-||stats.shareup.app^
 ||stats.shawnyeager.com^
 ||stats.shell-tips.com^
 ||stats.shh.io^
@@ -1895,12 +1949,12 @@
 ||stats.sprongtherapie.nl^
 ||stats.sprune.com^
 ||stats.squaddy.se^
+||stats.stack11.io^
 ||stats.starfish.team^
 ||stats.stdout.no^
 ||stats.stitchiq.com^
 ||stats.strawberry.rocks^
 ||stats.stronglifts.com^
-||stats.studiofordigitalgrowth.com^
 ||stats.sublimesecurity.com^
 ||stats.subscriptionscore.com^
 ||stats.sumatra.ai^
@@ -1909,12 +1963,14 @@
 ||stats.table.party^
 ||stats.tedserbinski.com^
 ||stats.the-geometric-clock.com^
+||stats.thegoodlineheight.com^
 ||stats.theharris.family^
 ||stats.theopenice.com^
 ||stats.therenegadecoder.com^
 ||stats.thewatershed.boston^
 ||stats.thorlaksson.com^
 ||stats.timkhoury.com^
+||stats.timmyomahony.com^
 ||stats.topstudyworld.com^
 ||stats.trailblazercoffee.com^
 ||stats.twhl.xyz^
@@ -1954,6 +2010,7 @@
 ||stingray.gproexteriors.com^
 ||stingray.tagedraussen-film.at^
 ||st.nickpoorman.com^
+||stoat.death-to-ie11.com^
 ||stoat.drijve.app^
 ||stoat.tunsplugins.com^
 ||stork.newsletterlabs.de^
@@ -1964,6 +2021,7 @@
 ||st.simonsson.com^
 ||sts.tour-europe.org^
 ||st.tulastudio.se^
+||st.turnou.com^
 ||st.websites.txk.me^
 ||swallow.axiom.co^
 ||swallow.tinybox.dev^
@@ -1994,11 +2052,13 @@
 ||telemaco.gottardo.me^
 ||telemetry.xeraa.net^
 ||tern.xebel.co^
+||tesco.hostingfiles.gq^
 ||tesco.soyabnandhla.wtf^
 ||test12345.adriaan.io^
 ||test-external-ssl-319481934.simpleanalytics.io^
 ||test.mirahi.io^
 ||thrush.forwardthinking.pro^
+||thrush.warmben.ch^
 ||tick.jamespanther.com^
 ||tick.melkcollections.com^
 ||tick.sculch.app^
@@ -2037,6 +2097,7 @@
 ||treefrog.mii-chi.app^
 ||trout.contaim.io^
 ||trout.stocketa.com^
+||t.techxpliquer.fr^
 ||t.thesetup.it^
 ||tuna.ajaymantri.com^
 ||tuna.cameratico.com^
@@ -2054,6 +2115,7 @@
 ||upqswv6dxq.cfromp.xyz^
 ||uwp2m.doers.ph^
 ||vampirebat.sharpend.io^
+||vampirebat.swingnsail.com^
 ||vampirebat.tinamrak.com^
 ||varys.asongofzandc.xyz^
 ||veryimportant.jouwhuisjouwsite.be^
@@ -2075,6 +2137,7 @@
 ||vole.franzwalter.de^
 ||vole.leonhitchens.com^
 ||vole.nettskaperne.no^
+||vole.sonicrida.com^
 ||vulture.itsgrafton.com^
 ||vulture.johnzimmerman.org^
 ||wallaby.cron.help^
@@ -2135,7 +2198,6 @@
 ||yak.withlindy.com^
 ||ycpkuophoy.vole.wtf^
 ||yeet5.engine.hive.uno^
-||yeim7gmiv.rfortherestofus.com^
 ||yolo.phpliveregex.com^
 ||yolo.testfalcon.com^
 ||z3k9si.covid-resources.com^
