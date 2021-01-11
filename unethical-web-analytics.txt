@@ -1626,7 +1626,6 @@
 ||sa.810antiques.com^
 ||sa.abilian.com^
 ||sa.abla.ge^
-||sa.aboutdavid.me^
 ||sa.abriefhistoryofyesterday.com^
 ||sa.academie.dev^
 ||sa.acdye.com^
